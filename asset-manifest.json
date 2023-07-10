@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/TrainingStageWeb/static/css/main.033688f8.css",
+    "main.js": "/TrainingStageWeb/static/js/main.fc632242.js",
+    "static/js/787.b8f1474b.chunk.js": "/TrainingStageWeb/static/js/787.b8f1474b.chunk.js",
+    "static/media/hero.png": "/TrainingStageWeb/static/media/hero.61f9bb920abfe2033e10.png",
+    "index.html": "/TrainingStageWeb/index.html",
+    "main.033688f8.css.map": "/TrainingStageWeb/static/css/main.033688f8.css.map",
+    "main.fc632242.js.map": "/TrainingStageWeb/static/js/main.fc632242.js.map",
+    "787.b8f1474b.chunk.js.map": "/TrainingStageWeb/static/js/787.b8f1474b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.033688f8.css",
+    "static/js/main.fc632242.js"
+  ]
+}
